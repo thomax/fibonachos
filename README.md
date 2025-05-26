@@ -1,0 +1,5 @@
+# Fibonachos
+
+Fibonacci pattern experiment 
+
+ 
